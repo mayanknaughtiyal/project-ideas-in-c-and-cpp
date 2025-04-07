@@ -1,8 +1,4 @@
-Here’s a comprehensive **README.md** template for your RISC-V-based PQC accelerator project, including Kyber KEM, NTT acceleration, and software integration:
-
----
-
-# **RISC-V Post-Quantum Cryptography Accelerator**  
+# **Embedded system Cryptography Accelerator using PQC**  
 **Lattice-Based PQC (Kyber KEM) with NTT Hardware Acceleration**  
 
 ## **Project Overview**  
