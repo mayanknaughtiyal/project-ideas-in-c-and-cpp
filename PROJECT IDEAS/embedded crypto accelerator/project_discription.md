@@ -6,7 +6,18 @@
 
 > v :- for vector register file and vector operations\highly used in PQC algorithms
 
+> B:-for bit manipulation instructions(useful for polynomial multiplication and bit level optimization ) 
+
 > C :- for compressed instruction size for memory optimization
 
+
 ###  It will use the following crypto extensions to achieve PQC
-> j
+> zvk :- accelarates NTT (for lattice based PQC algoritms like kyber)
+
+>zvkb :-for 
+
+## It will have the following properties
+* will have constant time logic for resistance to side channel attack
+* seperate unit for NTT(Number Theoretic Transform)
+* 
+  
