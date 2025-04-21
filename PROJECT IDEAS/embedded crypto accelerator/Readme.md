@@ -73,10 +73,10 @@ decrypted_key = k.decaps(sk, ciphertext)
 ---
 
 ## **Key Features**  
-✅ **Full Kyber-512/768/1024 support** (NIST PQC Standard)  
-✅ **4x faster NTT** vs. software (measured on Artix-7 FPGA)  
-✅ **Side-channel resistant design** (constant-time, masked NTT)  
-✅ **End-to-end demo**: Key exchange between host MCU and accelerator  
+--> **Full Kyber-512/768/1024 support** (NIST PQC Standard)  
+--> **4x faster NTT** vs. software (measured on Artix-7 FPGA)  
+--> **Side-channel resistant design** (constant-time, masked NTT)  
+--> **End-to-end demo**: Key exchange between host MCU and accelerator  
 
 ---
 
@@ -102,14 +102,4 @@ decrypted_key = k.decaps(sk, ciphertext)
    ```  
 
 ---
-
-## **License**  
-Apache 2.0 (Open for academic/industry collaboration).  
-
---- 
-
-### **Contributors**  
-- [Your Name]  
-- Advisors/Team Members  
-
-Let me know if you'd like to add more details (e.g., specific benchmark numbers, custom instruction definitions)!
+ 
